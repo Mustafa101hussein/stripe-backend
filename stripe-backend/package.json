@@ -1,0 +1,14 @@
+{
+  "name": "stripe-backend",
+  "version": "1.0.0",
+  "description": "Backend for Stripe payments",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "stripe": "^13.9.0"
+  },
+  "devDependencies": {
+    "vercel": "^28.16.0"
+  }
+}
